@@ -1,0 +1,17 @@
+#demo{
+    width: 70vw;
+    height: 70vh;
+    position: fixed;
+    margin: auto;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    
+}
+
+.default{
+    height: 100px;
+    width: 100px;
+}
